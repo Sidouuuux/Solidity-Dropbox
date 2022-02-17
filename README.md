@@ -1,4 +1,4 @@
-# Decentralized File Storage
+# Decentralized File Storage :inbox_tray:
 
 Dropbox clone running with solidity ߷⛓️.
 
